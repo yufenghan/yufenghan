@@ -1,1 +1,2 @@
 select * from ke.students;
+select * from ke.sources;
