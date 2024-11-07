@@ -1,3 +1,4 @@
 select * from ke.students;
 select * from ke.sources;
 update students  set age= age+1 where age=12;
+delete from students where age =20;
