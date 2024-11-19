@@ -11,3 +11,5 @@ each now!!!!!!!!!!!!
 
 
 周末回家!!!
+
+insert into country values(2,'俄罗斯',12345679);
