@@ -3,3 +3,4 @@ select * from ke.sources;
 update students  set age= age+1 where age=12;
 delete from students where age =20;
 insert into students values("liming",'M'，20，“大二”);
+insert into students values("liyong",'F',21,"大四");
