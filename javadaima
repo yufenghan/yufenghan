@@ -1,0 +1,18 @@
+public class BinaryTest {
+    public static void main(String[] args){
+        int num = 9;
+        System.out.println(num + num++ +num);//9+9+10
+        System.out.println(num);
+        int num2 = 19;
+        System.out.println( num2 + ++num2 + num2);//19+20+20
+        System.out.println(num2);
+
+        int num3 = 30;
+        System.out.println(  num3++ + num3);   //30+31
+        System.out.println(num3);
+
+        int num4 = 30;
+        System.out.println(  num4  + ++num4 + num4++);   //30+31+31
+        System.out.println(num4);
+    }
+}
