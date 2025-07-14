@@ -5,3 +5,4 @@ delete from students where age =20;
 insert into students values("liming",'M'，20，“大二”);
 insert into students values("liyong",'F',21,"大四");
 insert into students values("lihua",'M',25,"毕业");
+insert into students values("ningxia",'F',20,"大一");
